@@ -1,4 +1,7 @@
-# api documentation for  [grunt-php (v1.5.1)](https://github.com/sindresorhus/grunt-php)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-php.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-php) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-php.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-php)
+# npmdoc-grunt-php
+
+#### basic api documentation for  [grunt-php (v1.5.1)](https://github.com/sindresorhus/grunt-php)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-php.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-php) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-php.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-php)
+
 #### Start a PHP-server
 
 [![NPM](https://nodei.co/npm/grunt-php.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-php)
@@ -81,7 +84,8 @@
     "scripts": {
         "test": "grunt"
     },
-    "version": "1.5.1"
+    "version": "1.5.1",
+    "bin": {}
 }
 ```
 
